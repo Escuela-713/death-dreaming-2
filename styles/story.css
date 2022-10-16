@@ -1,0 +1,88 @@
+.container-fluid {
+    background-color: #151E3F;
+}
+.logo {
+    max-width: 50%;
+    height: auto;
+}
+a:link {
+    color: #F2F3D9 ;
+}
+ul {
+    max-height: 100%;
+    width: auto;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #DC9E82;
+    border: 3px solid #C16E70;
+}
+li {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+li a {
+    display: block;
+    color: #C16E70;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #C16E70;
+    color: #DC9E82;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #F2F3D9;
+    color: #030027;
+    text-align: center;
+    font-size: 24px;
+}
+
+.schoollogo {
+    height: 65px;
+    width: 105px;
+}
+
+section {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.etp {
+    color: #DC9E82;
+    text-align: left;
+}
+
+.optionwow {
+    background-color: #DC9E82 ;
+    border: 3px solid #C16E70 ;
+    border-radius: 12px ;
+    color: #C16E70;
+    padding: 14px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px ;
+}
+
+.buttonwow {
+    text-align: center;
+}
+
+.buttonwow :hover {
+    background-color: #C16E70;
+    color: #DC9E82;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    transition-duration: 0.4s;
+}
+
+.decpicture {
+    max-width: 100%;
+    height: auto;
+}
+
+.wowimage {
+    text-align: center;
+}
